@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Rochester";
+    src: url(../fonts/Rochester-Regular.ttf);
+}
+body {
+    background-color: #6bb3b3;
+    color: #a5e2ec;
+    font-family: "Rochester";
+}
